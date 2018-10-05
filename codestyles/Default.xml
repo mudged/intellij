@@ -1,4 +1,6 @@
 <code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="132" />
+  <option name="SOFT_MARGINS" value="132" />
   <JavaCodeStyleSettings>
     <option name="FIELD_NAME_PREFIX" value="m_" />
     <option name="GENERATE_FINAL_LOCALS" value="true" />
