@@ -1,0 +1,17 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="mudged" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://mudged@bitbucket.org/matrixxsoftware/5gc-rest-poc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/workspace" />
+  </component>
+</application>
