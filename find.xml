@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="5G Update Mapping (Trigger Type)" />
-    <option name="defaultScopeName" value="5G Update Mapping (Trigger Type)" />
-    <option name="SEARCH_SCOPE" value="5G Update Mapping (Trigger Type)" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="build.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,10 +14,10 @@
     <mask>*.xml</mask>
     <mask>*.expected</mask>
     <mask>*.log</mask>
-    <mask>build.xml</mask>
     <mask>pom.xml</mask>
     <mask>*.*</mask>
     <mask>*.py</mask>
     <mask>*.java</mask>
+    <mask>build.xml</mask>
   </component>
 </application>
