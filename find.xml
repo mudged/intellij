@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="SCon*" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,12 +14,12 @@
     <mask>*.xml</mask>
     <mask>*.expected</mask>
     <mask>*.log</mask>
-    <mask>pom.xml</mask>
     <mask>*.*</mask>
     <mask>*.py</mask>
     <mask>*.java</mask>
     <mask>build.xml</mask>
     <mask>*.spec</mask>
     <mask>SCon*</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
