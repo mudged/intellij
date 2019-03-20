@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="daniel.mudge@matrixx.com">
+      <option name="address" value="r.m0012242008.com:18080" />
+      <option name="name" value="Docker Registry" />
+      <option name="username" value="daniel.mudge" />
+    </DockerRegistry>
+  </component>
+</application>
