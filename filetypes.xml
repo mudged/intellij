@@ -4,7 +4,10 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="mudged" type="PLAIN_TEXT" />
       <mapping pattern="payment-service" type="PLAIN_TEXT" />
+      <mapping pattern="matrixx" type="PLAIN_TEXT" />
       <mapping pattern="mtx" type="PLAIN_TEXT" />
+      <mapping pattern="startup" type="PLAIN_TEXT" />
+      <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="props" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
