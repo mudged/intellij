@@ -2,12 +2,15 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="mtx_key" type="PLAIN_TEXT" />
       <mapping pattern="mudged" type="PLAIN_TEXT" />
+      <mapping pattern="root_key" type="PLAIN_TEXT" />
       <mapping pattern="payment-service" type="PLAIN_TEXT" />
       <mapping pattern="matrixx" type="PLAIN_TEXT" />
       <mapping pattern="mtx" type="PLAIN_TEXT" />
       <mapping pattern="startup" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="props" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
