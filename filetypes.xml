@@ -11,6 +11,7 @@
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="props" type="PLAIN_TEXT" />
     </extensionMap>
