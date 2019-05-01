@@ -3,6 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,10 +18,10 @@
     <mask>*.spec</mask>
     <mask>SCon*</mask>
     <mask>pom.xml</mask>
-    <mask>*.xml</mask>
     <mask>*.py</mask>
     <mask>create_config.info</mask>
-    <mask>run_test.py</mask>
     <mask>*.java</mask>
+    <mask>run_test.py</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
