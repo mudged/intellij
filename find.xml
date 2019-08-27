@@ -7,6 +7,7 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="create.config" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -29,5 +30,6 @@
     <mask>*.yaml</mask>
     <mask>*.pom</mask>
     <mask>*.xml</mask>
+    <mask>create.config</mask>
   </component>
 </application>
