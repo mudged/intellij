@@ -7,6 +7,7 @@
       <mapping pattern="mtx_key" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="mudged" type="PLAIN_TEXT" />
+      <mapping pattern="mtx_snmp_adapter" type="PLAIN_TEXT" />
       <mapping pattern="root_key" type="PLAIN_TEXT" />
       <mapping pattern="payment-service" type="PLAIN_TEXT" />
       <mapping pattern="matrixx" type="PLAIN_TEXT" />
