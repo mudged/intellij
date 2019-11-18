@@ -5,7 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -29,5 +29,6 @@
     <mask>*.list</mask>
     <mask>*.xml</mask>
     <mask>*.y*ml</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
