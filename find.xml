@@ -5,7 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="docker-compose.y*ml" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -27,9 +27,9 @@
     <mask>*.pom</mask>
     <mask>create.config</mask>
     <mask>*.list</mask>
-    <mask>*.xml</mask>
     <mask>*.y*ml</mask>
     <mask>*.properties</mask>
     <mask>docker-compose.y*ml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
