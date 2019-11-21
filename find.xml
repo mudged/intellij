@@ -5,7 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -18,7 +18,6 @@
     <mask>build.xml</mask>
     <mask>*.spec</mask>
     <mask>SCon*</mask>
-    <mask>pom.xml</mask>
     <mask>create_config.info</mask>
     <mask>run_test.py</mask>
     <mask>*.py</mask>
@@ -31,5 +30,6 @@
     <mask>*.properties</mask>
     <mask>docker-compose.y*ml</mask>
     <mask>*.xml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
