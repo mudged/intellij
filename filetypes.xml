@@ -1,15 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="gz" type="Native" />
       <mapping pattern="mtx_key" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="mudged" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="payment-service" type="PLAIN_TEXT" />
       <mapping pattern="mtx_snmp_adapter" type="PLAIN_TEXT" />
       <mapping pattern="root_key" type="PLAIN_TEXT" />
-      <mapping pattern="payment-service" type="PLAIN_TEXT" />
       <mapping pattern="matrixx" type="PLAIN_TEXT" />
       <mapping pattern="mtx" type="PLAIN_TEXT" />
       <mapping pattern="startup" type="PLAIN_TEXT" />
@@ -17,7 +15,6 @@
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
