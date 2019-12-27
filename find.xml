@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -19,7 +20,6 @@
     <mask>SCon*</mask>
     <mask>create_config.info</mask>
     <mask>run_test.py</mask>
-    <mask>*.py</mask>
     <mask>*.yaml</mask>
     <mask>*.pom</mask>
     <mask>create.config</mask>
@@ -31,5 +31,6 @@
     <mask>*.sh</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*.py</mask>
   </component>
 </application>
