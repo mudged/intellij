@@ -4,6 +4,7 @@
       <mapping ext="gz" type="Native" />
       <mapping pattern="mtx_key" type="PLAIN_TEXT" />
       <mapping pattern="create_price_loader_data" type="PLAIN_TEXT" />
+      <mapping pattern="kubernetes" type="PLAIN_TEXT" />
       <mapping pattern="mudged" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="payment-service" type="PLAIN_TEXT" />
