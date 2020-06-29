@@ -25,7 +25,6 @@
     <mask>*.list</mask>
     <mask>*.spec</mask>
     <mask>spring.factories</mask>
-    <mask>*.py</mask>
     <mask>check_engine.py</mask>
     <mask>pom.xml</mask>
     <mask>Dockerfile</mask>
@@ -35,5 +34,6 @@
     <mask>Chart*.yaml</mask>
     <mask>*values.yaml</mask>
     <mask>*.yaml</mask>
+    <mask>*.py</mask>
   </component>
 </application>
