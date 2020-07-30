@@ -5,7 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="Dockerfile" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -25,7 +25,6 @@
     <mask>*.spec</mask>
     <mask>spring.factories</mask>
     <mask>check_engine.py</mask>
-    <mask>Dockerfile</mask>
     <mask>*.java</mask>
     <mask>values.y*l</mask>
     <mask>*.sh</mask>
@@ -36,5 +35,6 @@
     <mask>*.yaml</mask>
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
+    <mask>Dockerfile</mask>
   </component>
 </application>
