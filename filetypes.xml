@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gz" type="Native" />
       <mapping pattern="mtx_key" type="PLAIN_TEXT" />
       <mapping pattern="mudged" type="PLAIN_TEXT" />
