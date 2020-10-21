@@ -5,7 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.mxml</mask>
+    <option name="FILE_MASK" value="*create_config.info" />
     <mask>*.expected</mask>
     <mask>*.log</mask>
     <mask>*.*</mask>
@@ -35,5 +35,6 @@
     <mask>*.yaml</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*create_config.info</mask>
   </component>
 </application>
