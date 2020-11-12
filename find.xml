@@ -7,7 +7,7 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.expected</mask>
+    <option name="FILE_MASK" value="expectations.yaml" />
     <mask>*.log</mask>
     <mask>*.*</mask>
     <mask>build.xml</mask>
@@ -28,7 +28,6 @@
     <mask>Chart*.yaml</mask>
     <mask>*values.yaml</mask>
     <mask>*.py</mask>
-    <mask>values.yaml</mask>
     <mask>Dockerfile</mask>
     <mask>*.xml</mask>
     <mask>*.json</mask>
@@ -37,5 +36,7 @@
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*create_config.info</mask>
+    <mask>values.yaml</mask>
+    <mask>expectations.yaml</mask>
   </component>
 </application>
