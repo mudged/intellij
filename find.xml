@@ -24,7 +24,6 @@
     <mask>*.sh</mask>
     <mask>Chart*.yaml</mask>
     <mask>*values.yaml</mask>
-    <mask>*.py</mask>
     <mask>Dockerfile</mask>
     <mask>*.xml</mask>
     <mask>*.json</mask>
@@ -35,5 +34,6 @@
     <mask>*create_config.info</mask>
     <mask>values.yaml</mask>
     <mask>expectations.yaml</mask>
+    <mask>*.py</mask>
   </component>
 </application>
