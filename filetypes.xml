@@ -8,6 +8,7 @@
       <mapping pattern="mudged" type="PLAIN_TEXT" />
       <mapping pattern="kubernetes" type="PLAIN_TEXT" />
       <mapping pattern="root_key" type="PLAIN_TEXT" />
+      <mapping pattern="single-cluster" type="PLAIN_TEXT" />
       <mapping pattern="version_part_2" type="PLAIN_TEXT" />
       <mapping pattern="Dockerimage" type="PLAIN_TEXT" />
       <mapping pattern="payment-service" type="PLAIN_TEXT" />
