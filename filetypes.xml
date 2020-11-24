@@ -10,6 +10,7 @@
       <mapping pattern="root_key" type="PLAIN_TEXT" />
       <mapping pattern="single-cluster" type="PLAIN_TEXT" />
       <mapping pattern="version_part_2" type="PLAIN_TEXT" />
+      <mapping pattern="helm" type="PLAIN_TEXT" />
       <mapping pattern="Dockerimage" type="PLAIN_TEXT" />
       <mapping pattern="payment-service" type="PLAIN_TEXT" />
       <mapping pattern="mtx_snmp_adapter" type="PLAIN_TEXT" />
