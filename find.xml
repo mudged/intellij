@@ -35,7 +35,7 @@
     <mask>expectations.yaml</mask>
     <mask>*.py</mask>
     <mask>*.sh</mask>
-    <mask>*.yaml</mask>
     <mask>input.properties</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
