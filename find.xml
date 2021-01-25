@@ -7,7 +7,7 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.*</mask>
+    <option name="FILE_MASK" value="docker-entrypoint.sh" />
     <mask>build.xml</mask>
     <mask>SCon*</mask>
     <mask>create_config.info</mask>
@@ -37,5 +37,6 @@
     <mask>input.properties</mask>
     <mask>*.yaml</mask>
     <mask>pom.xml</mask>
+    <mask>docker-entrypoint.sh</mask>
   </component>
 </application>
