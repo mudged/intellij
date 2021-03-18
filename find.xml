@@ -27,7 +27,6 @@
     <mask>Chart.yaml</mask>
     <mask>*.java</mask>
     <mask>*create_config.info</mask>
-    <mask>values.yaml</mask>
     <mask>expectations.yaml</mask>
     <mask>*.py</mask>
     <mask>input.properties</mask>
@@ -35,5 +34,6 @@
     <mask>docker-entrypoint.sh</mask>
     <mask>pom.xml</mask>
     <mask>*.sh</mask>
+    <mask>values.yaml</mask>
   </component>
 </application>
