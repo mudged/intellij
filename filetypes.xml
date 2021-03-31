@@ -24,6 +24,7 @@
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="ext" type="PLAIN_TEXT" />
+      <mapping ext="dynamicmessagemapperconfigurator" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="extra" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
