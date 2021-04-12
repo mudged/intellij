@@ -10,8 +10,8 @@
       <mapping pattern="root_key" type="PLAIN_TEXT" />
       <mapping pattern="single-cluster" type="PLAIN_TEXT" />
       <mapping pattern="version_part_2" type="PLAIN_TEXT" />
-      <mapping pattern="helm" type="PLAIN_TEXT" />
       <mapping pattern="Dockerimage" type="PLAIN_TEXT" />
+      <mapping pattern="helm" type="PLAIN_TEXT" />
       <mapping pattern="payment-service" type="PLAIN_TEXT" />
       <mapping pattern="mtx_snmp_adapter" type="PLAIN_TEXT" />
       <mapping pattern="matrixx" type="PLAIN_TEXT" />
@@ -24,8 +24,8 @@
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="ext" type="PLAIN_TEXT" />
       <mapping ext="dynamicmessagemapperconfigurator" type="PLAIN_TEXT" />
-      <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="extra" type="PLAIN_TEXT" />
+      <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
