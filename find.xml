@@ -7,6 +7,7 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>build.xml</mask>
     <mask>SCon*</mask>
     <mask>create_config.info</mask>
@@ -32,10 +33,10 @@
     <mask>expectations.yaml</mask>
     <mask>*.py</mask>
     <mask>input.properties</mask>
-    <mask>*.yaml</mask>
     <mask>docker-entrypoint.sh</mask>
     <mask>*.sh</mask>
     <mask>values.yaml</mask>
     <mask>pom.xml</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
