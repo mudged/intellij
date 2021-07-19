@@ -5,7 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <mask>create_config.info</mask>
+    <option name="FILE_MASK" value="nf-k8s.yaml" />
     <mask>run_test.py</mask>
     <mask>*.pom</mask>
     <mask>create.config</mask>
@@ -35,5 +35,6 @@
     <mask>docker-compose.y*</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>nf-k8s.yaml</mask>
   </component>
 </application>
