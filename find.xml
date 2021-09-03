@@ -7,7 +7,7 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.y*ml" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.pom</mask>
     <mask>create.config</mask>
     <mask>*.properties</mask>
@@ -25,7 +25,6 @@
     <mask>Chart.yaml</mask>
     <mask>*create_config.info</mask>
     <mask>expectations.yaml</mask>
-    <mask>*.py</mask>
     <mask>input.properties</mask>
     <mask>docker-entrypoint.sh</mask>
     <mask>*.sh</mask>
@@ -38,5 +37,6 @@
     <mask>*.java</mask>
     <mask>*.yaml</mask>
     <mask>*.y*ml</mask>
+    <mask>*.py</mask>
   </component>
 </application>
