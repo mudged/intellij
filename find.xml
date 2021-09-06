@@ -7,7 +7,6 @@
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.py" />
     <mask>*.pom</mask>
     <mask>create.config</mask>
     <mask>*.properties</mask>
