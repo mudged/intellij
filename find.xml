@@ -5,6 +5,7 @@
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*.pom</mask>
     <mask>create.config</mask>
     <mask>*.properties</mask>
@@ -32,8 +33,8 @@
     <mask>values.yaml</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
-    <mask>*.yaml</mask>
     <mask>*.y*ml</mask>
     <mask>*.py</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
